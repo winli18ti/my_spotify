@@ -1,0 +1,71 @@
+{
+  "href" : "https://api.spotify.com/v1/users/31udk37ldnlpe5oaitowfyz2uu6i/playlists?offset=0&limit=20",
+  "items" : [ {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4kNbygAKuRjgkxnhmiZoH7"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4kNbygAKuRjgkxnhmiZoH7",
+    "id" : "4kNbygAKuRjgkxnhmiZoH7",
+    "images" : [ ],
+    "name" : "Your New Playlist 02",
+    "owner" : {
+      "display_name" : "Winli",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/31udk37ldnlpe5oaitowfyz2uu6i"
+      },
+      "href" : "https://api.spotify.com/v1/users/31udk37ldnlpe5oaitowfyz2uu6i",
+      "id" : "31udk37ldnlpe5oaitowfyz2uu6i",
+      "type" : "user",
+      "uri" : "spotify:user:31udk37ldnlpe5oaitowfyz2uu6i"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MSxlYmFiZmUwYzQzZWM3NWM3MDM2YTIzOWI1YTgxNWIyZDcxMDAxYmU0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4kNbygAKuRjgkxnhmiZoH7/tracks",
+      "total" : 0
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4kNbygAKuRjgkxnhmiZoH7"
+  }, {
+    "collaborative" : false,
+    "description" : "",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6bAEhsnUV584TWRuFOsV5a"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6bAEhsnUV584TWRuFOsV5a",
+    "id" : "6bAEhsnUV584TWRuFOsV5a",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+      "width" : 640
+    } ],
+    "name" : "Your New Playlist 01",
+    "owner" : {
+      "display_name" : "Winli",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/31udk37ldnlpe5oaitowfyz2uu6i"
+      },
+      "href" : "https://api.spotify.com/v1/users/31udk37ldnlpe5oaitowfyz2uu6i",
+      "id" : "31udk37ldnlpe5oaitowfyz2uu6i",
+      "type" : "user",
+      "uri" : "spotify:user:31udk37ldnlpe5oaitowfyz2uu6i"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTcsNmZiMTBhYWVlMGUzZWU2ZWQ5YmQ5MGNlZGI2OTUwNGYyMGQ2YjgwZg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6bAEhsnUV584TWRuFOsV5a/tracks",
+      "total" : 3
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6bAEhsnUV584TWRuFOsV5a"
+  } ],
+  "limit" : 20,
+  "next" : null,
+  "offset" : 0,
+  "previous" : null,
+  "total" : 2
+}

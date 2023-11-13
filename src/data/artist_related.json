@@ -1,0 +1,563 @@
+{
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1536470
+    },
+    "genres" : [ "pop dance", "swedish tropical house" ],
+    "href" : "https://api.spotify.com/v1/artists/6lB8vOoI4DRrrVxXwuV19c",
+    "id" : "6lB8vOoI4DRrrVxXwuV19c",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb4ca7ccebc2f9e6c281cd6ff3",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051744ca7ccebc2f9e6c281cd6ff3",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1784ca7ccebc2f9e6c281cd6ff3",
+      "width" : 160
+    } ],
+    "name" : "Mike Perry",
+    "popularity" : 64,
+    "type" : "artist",
+    "uri" : "spotify:artist:6lB8vOoI4DRrrVxXwuV19c"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1392868
+    },
+    "genres" : [ "danish electronic", "pop dance" ],
+    "href" : "https://api.spotify.com/v1/artists/4ehtJnVumNf6xzSCDk8aLB",
+    "id" : "4ehtJnVumNf6xzSCDk8aLB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eba1a6d776851111a44969301b",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174a1a6d776851111a44969301b",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178a1a6d776851111a44969301b",
+      "width" : 160
+    } ],
+    "name" : "Martin Jensen",
+    "popularity" : 63,
+    "type" : "artist",
+    "uri" : "spotify:artist:4ehtJnVumNf6xzSCDk8aLB"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2xW3pBjCngD69hC1wIUgjA"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 698375
+    },
+    "genres" : [ "pop edm" ],
+    "href" : "https://api.spotify.com/v1/artists/2xW3pBjCngD69hC1wIUgjA",
+    "id" : "2xW3pBjCngD69hC1wIUgjA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb2648d685a921558502128811",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051742648d685a921558502128811",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1782648d685a921558502128811",
+      "width" : 160
+    } ],
+    "name" : "Axel Johansson",
+    "popularity" : 47,
+    "type" : "artist",
+    "uri" : "spotify:artist:2xW3pBjCngD69hC1wIUgjA"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3834337
+    },
+    "genres" : [ "pop", "pop dance", "tropical house", "uk dance" ],
+    "href" : "https://api.spotify.com/v1/artists/1HBjj22wzbscIZ9sEb5dyf",
+    "id" : "1HBjj22wzbscIZ9sEb5dyf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb4f5914db88341591a13ba9c0",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051744f5914db88341591a13ba9c0",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1784f5914db88341591a13ba9c0",
+      "width" : 160
+    } ],
+    "name" : "Jonas Blue",
+    "popularity" : 73,
+    "type" : "artist",
+    "uri" : "spotify:artist:1HBjj22wzbscIZ9sEb5dyf"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 768391
+    },
+    "genres" : [ "edm", "pop dance", "tropical house" ],
+    "href" : "https://api.spotify.com/v1/artists/20gsENnposVs2I4rQ5kvrf",
+    "id" : "20gsENnposVs2I4rQ5kvrf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb0193c3751b15e8d5153299ad",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051740193c3751b15e8d5153299ad",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1780193c3751b15e8d5153299ad",
+      "width" : 160
+    } ],
+    "name" : "Sam Feldt",
+    "popularity" : 70,
+    "type" : "artist",
+    "uri" : "spotify:artist:20gsENnposVs2I4rQ5kvrf"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1297951
+    },
+    "genres" : [ "edm", "german dance", "pop dance", "tropical house" ],
+    "href" : "https://api.spotify.com/v1/artists/4bL2B6hmLlMWnUEZnorEtG",
+    "id" : "4bL2B6hmLlMWnUEZnorEtG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebba8ad9259eacd80937326f7c",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174ba8ad9259eacd80937326f7c",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178ba8ad9259eacd80937326f7c",
+      "width" : 160
+    } ],
+    "name" : "Felix Jaehn",
+    "popularity" : 73,
+    "type" : "artist",
+    "uri" : "spotify:artist:4bL2B6hmLlMWnUEZnorEtG"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2723925
+    },
+    "genres" : [ "belgian edm", "edm", "pop dance", "tropical house" ],
+    "href" : "https://api.spotify.com/v1/artists/7f5Zgnp2spUuuzKplmRkt7",
+    "id" : "7f5Zgnp2spUuuzKplmRkt7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebd8ba69b2c39fcbe8bae260d1",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174d8ba69b2c39fcbe8bae260d1",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178d8ba69b2c39fcbe8bae260d1",
+      "width" : 160
+    } ],
+    "name" : "Lost Frequencies",
+    "popularity" : 75,
+    "type" : "artist",
+    "uri" : "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2190268
+    },
+    "genres" : [ "edm", "pop", "pop dance" ],
+    "href" : "https://api.spotify.com/v1/artists/7DMveApC7UnC2NPfPvlHSU",
+    "id" : "7DMveApC7UnC2NPfPvlHSU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb6b4a14efca7b2fd8967390be",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051746b4a14efca7b2fd8967390be",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1786b4a14efca7b2fd8967390be",
+      "width" : 160
+    } ],
+    "name" : "Cheat Codes",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:7DMveApC7UnC2NPfPvlHSU"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 20384613
+    },
+    "genres" : [ "electropop", "pop" ],
+    "href" : "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+    "id" : "69GGBxA162lTqCwzJG5jLp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebdb68d678df6d89bf8a55d052",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174db68d678df6d89bf8a55d052",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178db68d678df6d89bf8a55d052",
+      "width" : 160
+    } ],
+    "name" : "The Chainsmokers",
+    "popularity" : 78,
+    "type" : "artist",
+    "uri" : "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 354963
+    },
+    "genres" : [ "pop dance" ],
+    "href" : "https://api.spotify.com/v1/artists/5iNrZmtVMtYev5M9yoWpEq",
+    "id" : "5iNrZmtVMtYev5M9yoWpEq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebc370fb6c5d9e9aac210acaac",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174c370fb6c5d9e9aac210acaac",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178c370fb6c5d9e9aac210acaac",
+      "width" : 160
+    } ],
+    "name" : "Seeb",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:5iNrZmtVMtYev5M9yoWpEq"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1576493
+    },
+    "genres" : [ "dance pop", "edm", "pop dance", "uk dance", "uk pop" ],
+    "href" : "https://api.spotify.com/v1/artists/1IueXOQyABrMOprrzwQJWN",
+    "id" : "1IueXOQyABrMOprrzwQJWN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb676cabffde9eb5b921355358",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174676cabffde9eb5b921355358",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178676cabffde9eb5b921355358",
+      "width" : 160
+    } ],
+    "name" : "Sigala",
+    "popularity" : 70,
+    "type" : "artist",
+    "uri" : "spotify:artist:1IueXOQyABrMOprrzwQJWN"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 8427109
+    },
+    "genres" : [ "edm", "pop", "pop dance", "tropical house" ],
+    "href" : "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+    "id" : "23fqKkggKUBHNkbKtXEls4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebe636670d717588b11d654130",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174e636670d717588b11d654130",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178e636670d717588b11d654130",
+      "width" : 160
+    } ],
+    "name" : "Kygo",
+    "popularity" : 77,
+    "type" : "artist",
+    "uri" : "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 743459
+    },
+    "genres" : [ "pop dance", "tropical house" ],
+    "href" : "https://api.spotify.com/v1/artists/4YXycRbyyAE0wozTk7QMEq",
+    "id" : "4YXycRbyyAE0wozTk7QMEq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb9e89c8d25b3f4b4be014f2a8",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051749e89c8d25b3f4b4be014f2a8",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1789e89c8d25b3f4b4be014f2a8",
+      "width" : 160
+    } ],
+    "name" : "Matoma",
+    "popularity" : 62,
+    "type" : "artist",
+    "uri" : "spotify:artist:4YXycRbyyAE0wozTk7QMEq"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 149716
+    },
+    "genres" : [ "big room", "nordic house" ],
+    "href" : "https://api.spotify.com/v1/artists/49CE2ffZ6Z3zeYSDauSKck",
+    "id" : "49CE2ffZ6Z3zeYSDauSKck",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebf1338711bf237e7bdc624295",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174f1338711bf237e7bdc624295",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178f1338711bf237e7bdc624295",
+      "width" : 160
+    } ],
+    "name" : "Tungevaag",
+    "popularity" : 64,
+    "type" : "artist",
+    "uri" : "spotify:artist:49CE2ffZ6Z3zeYSDauSKck"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 143300
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/3GtCKJA4SkOxN65MWjm82R",
+    "id" : "3GtCKJA4SkOxN65MWjm82R",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebc164cee358395e0b6727b979",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174c164cee358395e0b6727b979",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178c164cee358395e0b6727b979",
+      "width" : 160
+    } ],
+    "name" : "Hot Shade",
+    "popularity" : 59,
+    "type" : "artist",
+    "uri" : "spotify:artist:3GtCKJA4SkOxN65MWjm82R"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 269580
+    },
+    "genres" : [ "deep pop edm", "electronic trap" ],
+    "href" : "https://api.spotify.com/v1/artists/3tLYpanVDomWAZqF82NPds",
+    "id" : "3tLYpanVDomWAZqF82NPds",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb721f4065b22c51140737289f",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174721f4065b22c51140737289f",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178721f4065b22c51140737289f",
+      "width" : 160
+    } ],
+    "name" : "Vigiland",
+    "popularity" : 54,
+    "type" : "artist",
+    "uri" : "spotify:artist:3tLYpanVDomWAZqF82NPds"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 935861
+    },
+    "genres" : [ "edm", "pop dance" ],
+    "href" : "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+    "id" : "2ZRQcIgzPCVaT9XKhXZIzh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebbfbd11b7cb9185f08b69da7c",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174bfbd11b7cb9185f08b69da7c",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178bfbd11b7cb9185f08b69da7c",
+      "width" : 160
+    } ],
+    "name" : "Gryffin",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 235614
+    },
+    "genres" : [ "edm", "pop dance", "tropical house" ],
+    "href" : "https://api.spotify.com/v1/artists/6i1GVNJCyyssRwXmnaeEFH",
+    "id" : "6i1GVNJCyyssRwXmnaeEFH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebf144aec1f0427c0e998abb28",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174f144aec1f0427c0e998abb28",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178f144aec1f0427c0e998abb28",
+      "width" : 160
+    } ],
+    "name" : "Syn Cole",
+    "popularity" : 58,
+    "type" : "artist",
+    "uri" : "spotify:artist:6i1GVNJCyyssRwXmnaeEFH"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2464519
+    },
+    "genres" : [ "edm", "pop dance", "progressive electro house" ],
+    "href" : "https://api.spotify.com/v1/artists/2XnBwblw31dfGnspMIwgWz",
+    "id" : "2XnBwblw31dfGnspMIwgWz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb9f6e5d736809c4cb40d59a7e",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051749f6e5d736809c4cb40d59a7e",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1789f6e5d736809c4cb40d59a7e",
+      "width" : 160
+    } ],
+    "name" : "Axwell /\\ Ingrosso",
+    "popularity" : 63,
+    "type" : "artist",
+    "uri" : "spotify:artist:2XnBwblw31dfGnspMIwgWz"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3095510
+    },
+    "genres" : [ "deep euro house", "deep house", "edm", "german dance", "pop dance", "tropical house" ],
+    "href" : "https://api.spotify.com/v1/artists/3t5xRXzsuZmMDkQzgOX35S",
+    "id" : "3t5xRXzsuZmMDkQzgOX35S",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb82c0d0d4ef6742997f03d678",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab6761610000517482c0d0d4ef6742997f03d678",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f17882c0d0d4ef6742997f03d678",
+      "width" : 160
+    } ],
+    "name" : "Robin Schulz",
+    "popularity" : 76,
+    "type" : "artist",
+    "uri" : "spotify:artist:3t5xRXzsuZmMDkQzgOX35S"
+  } ]
+}

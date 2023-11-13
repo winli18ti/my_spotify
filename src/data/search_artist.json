@@ -1,0 +1,851 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=a&type=artist&market=ID&offset=0&limit=30",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 93117335
+      },
+      "genres" : [ "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id" : "66CXWjxzNUsdJxJ2JdwvnR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174cdce7620dc940db079bf4952",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178cdce7620dc940db079bf4952",
+        "width" : 160
+      } ],
+      "name" : "Ariana Grande",
+      "popularity" : 86,
+      "type" : "artist",
+      "uri" : "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 39120195
+      },
+      "genres" : [ "electro house" ],
+      "href" : "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
+      "id" : "7vk5e3vY1uw9plTHJAMwjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebbf753c009fd9c2d53351dd3c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174bf753c009fd9c2d53351dd3c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178bf753c009fd9c2d53351dd3c",
+        "width" : 160
+      } ],
+      "name" : "Alan Walker",
+      "popularity" : 79,
+      "type" : "artist",
+      "uri" : "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 454055
+      },
+      "genres" : [ "indonesian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/1JvbNeV9zG9Sew1JyaWsyx",
+      "id" : "1JvbNeV9zG9Sew1JyaWsyx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb604493f4d58b7d152a2d5f79",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174604493f4d58b7d152a2d5f79",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178604493f4d58b7d152a2d5f79",
+        "width" : 160
+      } ],
+      "name" : "Anggi Marito",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:1JvbNeV9zG9Sew1JyaWsyx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6454561
+      },
+      "genres" : [ "alternative metal", "nu metal" ],
+      "href" : "https://api.spotify.com/v1/artists/0nmQIMXWTXfhgOBdNzhGOs",
+      "id" : "0nmQIMXWTXfhgOBdNzhGOs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe8ff09aeb4a345c03ff560b6",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e8ff09aeb4a345c03ff560b6",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e8ff09aeb4a345c03ff560b6",
+        "width" : 160
+      } ],
+      "name" : "Avenged Sevenfold",
+      "popularity" : 73,
+      "type" : "artist",
+      "uri" : "spotify:artist:0nmQIMXWTXfhgOBdNzhGOs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 50799321
+      },
+      "genres" : [ "british soul", "pop", "pop soul", "uk pop" ],
+      "href" : "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id" : "4dpARuHxo51G3z768sgnrY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517468f6e5892075d7f22615bd17",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17868f6e5892075d7f22615bd17",
+        "width" : 160
+      } ],
+      "name" : "Adele",
+      "popularity" : 83,
+      "type" : "artist",
+      "uri" : "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2057816
+      },
+      "genres" : [ "indonesian pop", "malaysian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/4cgBCGxtlfap2g6jveB7du",
+      "id" : "4cgBCGxtlfap2g6jveB7du",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4f59eba8459e76b5da830597",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744f59eba8459e76b5da830597",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784f59eba8459e76b5da830597",
+        "width" : 160
+      } ],
+      "name" : "Afgan",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:4cgBCGxtlfap2g6jveB7du"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 41582
+      },
+      "genres" : [ "indonesian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6ygKuZFz2sRggPZRaLHVHD",
+      "id" : "6ygKuZFz2sRggPZRaLHVHD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4960641a7e55fe8b1c60a7d1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744960641a7e55fe8b1c60a7d1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784960641a7e55fe8b1c60a7d1",
+        "width" : 160
+      } ],
+      "name" : "Aziz Hedra",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:6ygKuZFz2sRggPZRaLHVHD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3582433
+      },
+      "genres" : [ "k-pop", "k-pop girl group" ],
+      "href" : "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
+      "id" : "6YVMFz59CuY7ngCxTxjpxE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebfedf7e156439ccdbcab421e4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174fedf7e156439ccdbcab421e4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178fedf7e156439ccdbcab421e4",
+        "width" : 160
+      } ],
+      "name" : "aespa",
+      "popularity" : 72,
+      "type" : "artist",
+      "uri" : "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5993773
+      },
+      "genres" : [ "indonesian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/6IDsZZ4IHgs9VblBgQQSmt",
+      "id" : "6IDsZZ4IHgs9VblBgQQSmt",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb98f1f7ffcfe105d15bd819af",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517498f1f7ffcfe105d15bd819af",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17898f1f7ffcfe105d15bd819af",
+        "width" : 160
+      } ],
+      "name" : "Andmesh",
+      "popularity" : 64,
+      "type" : "artist",
+      "uri" : "spotify:artist:6IDsZZ4IHgs9VblBgQQSmt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2848388
+      },
+      "genres" : [ "indonesian pop", "indonesian pop rock" ],
+      "href" : "https://api.spotify.com/v1/artists/6H857CtcaYMSxOB4jvSIZf",
+      "id" : "6H857CtcaYMSxOB4jvSIZf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eba91a44cc797cd297d7c5aba2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174a91a44cc797cd297d7c5aba2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178a91a44cc797cd297d7c5aba2",
+        "width" : 160
+      } ],
+      "name" : "Armada",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:6H857CtcaYMSxOB4jvSIZf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 21211008
+      },
+      "genres" : [ "garage rock", "modern rock", "permanent wave", "rock", "sheffield indie" ],
+      "href" : "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+      "id" : "7Ln80lUS6He07XvHI8qqHH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747da39dea0a72f581535fb11f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787da39dea0a72f581535fb11f",
+        "width" : 160
+      } ],
+      "name" : "Arctic Monkeys",
+      "popularity" : 84,
+      "type" : "artist",
+      "uri" : "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 693865
+      },
+      "genres" : [ "indonesian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/7j5PGC0BF48rRtcmgbVvOT",
+      "id" : "7j5PGC0BF48rRtcmgbVvOT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebb8c4e646b82d9796e26c0db2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174b8c4e646b82d9796e26c0db2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178b8c4e646b82d9796e26c0db2",
+        "width" : 160
+      } ],
+      "name" : "Arsy Widianto",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:7j5PGC0BF48rRtcmgbVvOT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2owBL6a90fnWufVtP70K8f"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1677410
+      },
+      "genres" : [ "indonesian pop", "indonesian pop rock" ],
+      "href" : "https://api.spotify.com/v1/artists/2owBL6a90fnWufVtP70K8f",
+      "id" : "2owBL6a90fnWufVtP70K8f",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb52172a6b7cab765489f9963f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517452172a6b7cab765489f9963f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17852172a6b7cab765489f9963f",
+        "width" : 160
+      } ],
+      "name" : "Ada Band",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:2owBL6a90fnWufVtP70K8f"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 241360
+      },
+      "genres" : [ "indonesian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/2A7XpBQ8X227lVi5BphdPw",
+      "id" : "2A7XpBQ8X227lVi5BphdPw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf860c4a0a2665c0e008bd7d9",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f860c4a0a2665c0e008bd7d9",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f860c4a0a2665c0e008bd7d9",
+        "width" : 160
+      } ],
+      "name" : "Awdella",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:2A7XpBQ8X227lVi5BphdPw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 268053
+      },
+      "genres" : [ "indonesian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/7G0kstl7VjhDSgFYOBaUS1",
+      "id" : "7G0kstl7VjhDSgFYOBaUS1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebc2b73ab1fc50858fcca866e5",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174c2b73ab1fc50858fcca866e5",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178c2b73ab1fc50858fcca866e5",
+        "width" : 160
+      } ],
+      "name" : "Aruma",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:7G0kstl7VjhDSgFYOBaUS1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1527029
+      },
+      "genres" : [ "indonesian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/1sqYIwXAmhrcSTsYmsTFAr",
+      "id" : "1sqYIwXAmhrcSTsYmsTFAr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4e1ed336c3ff93a95fa44e14",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744e1ed336c3ff93a95fa44e14",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784e1ed336c3ff93a95fa44e14",
+        "width" : 160
+      } ],
+      "name" : "Ari Lasso",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:1sqYIwXAmhrcSTsYmsTFAr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1489331
+      },
+      "genres" : [ "classic indonesian rock", "indonesian pop", "indonesian rock" ],
+      "href" : "https://api.spotify.com/v1/artists/4ucwey7FxkHXkLK7jSfevU",
+      "id" : "4ucwey7FxkHXkLK7jSfevU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738a25f55567169ee8dbc97fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028a25f55567169ee8dbc97fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518a25f55567169ee8dbc97fcc",
+        "width" : 64
+      } ],
+      "name" : "Andra & The Backbone",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:4ucwey7FxkHXkLK7jSfevU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 388149
+      },
+      "genres" : [ "indonesian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/611ajYp7fMbkU5CYF08tje",
+      "id" : "611ajYp7fMbkU5CYF08tje",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb57e03ee8e4a5acd8415f8cd3",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517457e03ee8e4a5acd8415f8cd3",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17857e03ee8e4a5acd8415f8cd3",
+        "width" : 160
+      } ],
+      "name" : "Audy",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:611ajYp7fMbkU5CYF08tje"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4oKMJxfKAUkddjrPMPdk5k"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 148359
+      },
+      "genres" : [ "lagu melayu", "pop minang" ],
+      "href" : "https://api.spotify.com/v1/artists/4oKMJxfKAUkddjrPMPdk5k",
+      "id" : "4oKMJxfKAUkddjrPMPdk5k",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb905ab6019c9d8b600fab19b1",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174905ab6019c9d8b600fab19b1",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178905ab6019c9d8b600fab19b1",
+        "width" : 160
+      } ],
+      "name" : "Arief",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:4oKMJxfKAUkddjrPMPdk5k"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1455
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/21delmj7yVs6NDL6o1CPbk",
+      "id" : "21delmj7yVs6NDL6o1CPbk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb31b099f9fa28f5ff46f9ca9f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517431b099f9fa28f5ff46f9ca9f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17831b099f9fa28f5ff46f9ca9f",
+        "width" : 160
+      } ],
+      "name" : "Aan Story",
+      "popularity" : 60,
+      "type" : "artist",
+      "uri" : "spotify:artist:21delmj7yVs6NDL6o1CPbk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1035625
+      },
+      "genres" : [ "indonesian jazz", "indonesian pop", "jazz pop" ],
+      "href" : "https://api.spotify.com/v1/artists/3TkSKriI4EZmTxSFyzs0fd",
+      "id" : "3TkSKriI4EZmTxSFyzs0fd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebd7649c8b7fc775137d4cb3d8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174d7649c8b7fc775137d4cb3d8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178d7649c8b7fc775137d4cb3d8",
+        "width" : 160
+      } ],
+      "name" : "Ardhito Pramono",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:3TkSKriI4EZmTxSFyzs0fd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 291037
+      },
+      "genres" : [ "dangdut koplo", "javanese dangdut", "lagu jawa" ],
+      "href" : "https://api.spotify.com/v1/artists/6daEl3JyMDgK52fKuqPelL",
+      "id" : "6daEl3JyMDgK52fKuqPelL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1328fbfd0eeadf7072e1a7e4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741328fbfd0eeadf7072e1a7e4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781328fbfd0eeadf7072e1a7e4",
+        "width" : 160
+      } ],
+      "name" : "Aftershine",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:6daEl3JyMDgK52fKuqPelL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11116593
+      },
+      "genres" : [ "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/1zNqDE7qDGCsyzJwohVaoX",
+      "id" : "1zNqDE7qDGCsyzJwohVaoX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517467013e289b84440ce3d1c88e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17867013e289b84440ce3d1c88e",
+        "width" : 160
+      } ],
+      "name" : "Anne-Marie",
+      "popularity" : 78,
+      "type" : "artist",
+      "uri" : "spotify:artist:1zNqDE7qDGCsyzJwohVaoX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 15379
+      },
+      "genres" : [ "british alternative rock" ],
+      "href" : "https://api.spotify.com/v1/artists/3HBxYEtI2i43MzWyTXupVv",
+      "id" : "3HBxYEtI2i43MzWyTXupVv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6e6439b0fe1b1a12f05a327c",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746e6439b0fe1b1a12f05a327c",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786e6439b0fe1b1a12f05a327c",
+        "width" : 160
+      } ],
+      "name" : "A",
+      "popularity" : 27,
+      "type" : "artist",
+      "uri" : "spotify:artist:3HBxYEtI2i43MzWyTXupVv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RxMoZUMhMB5B9KzO8SA8p"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 236
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1RxMoZUMhMB5B9KzO8SA8p",
+      "id" : "1RxMoZUMhMB5B9KzO8SA8p",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6a708ff5ec9828eacc8e9805",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746a708ff5ec9828eacc8e9805",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786a708ff5ec9828eacc8e9805",
+        "width" : 160
+      } ],
+      "name" : "A",
+      "popularity" : 9,
+      "type" : "artist",
+      "uri" : "spotify:artist:1RxMoZUMhMB5B9KzO8SA8p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10FkbDQFjWJJBZQ7EEpt8Q"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 141
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/10FkbDQFjWJJBZQ7EEpt8Q",
+      "id" : "10FkbDQFjWJJBZQ7EEpt8Q",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb7260b77414e03463de3bae50",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051747260b77414e03463de3bae50",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1787260b77414e03463de3bae50",
+        "width" : 160
+      } ],
+      "name" : "Â",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:10FkbDQFjWJJBZQ7EEpt8Q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/35qsRBNNhRMICiuATSskko"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/35qsRBNNhRMICiuATSskko",
+      "id" : "35qsRBNNhRMICiuATSskko",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735b73604c6b2288a9ff1d8f4d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025b73604c6b2288a9ff1d8f4d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515b73604c6b2288a9ff1d8f4d",
+        "width" : 64
+      } ],
+      "name" : "A",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:35qsRBNNhRMICiuATSskko"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 259206
+      },
+      "genres" : [ "indonesian folk pop", "indonesian pop" ],
+      "href" : "https://api.spotify.com/v1/artists/0azPQZGt11gedg5Le9hjC2",
+      "id" : "0azPQZGt11gedg5Le9hjC2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb12441eaba98b3ee535214142",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517412441eaba98b3ee535214142",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17812441eaba98b3ee535214142",
+        "width" : 160
+      } ],
+      "name" : "Amigdala",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:0azPQZGt11gedg5Le9hjC2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0JM6Dyo1DMdx2RYbH1Hpmn"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 82
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0JM6Dyo1DMdx2RYbH1Hpmn",
+      "id" : "0JM6Dyo1DMdx2RYbH1Hpmn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebe74eb7cfe7a72d14c400cbfc",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174e74eb7cfe7a72d14c400cbfc",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178e74eb7cfe7a72d14c400cbfc",
+        "width" : 160
+      } ],
+      "name" : "A",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0JM6Dyo1DMdx2RYbH1Hpmn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6340
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4yRVdMqPrguKBFwZYpmke0",
+      "id" : "4yRVdMqPrguKBFwZYpmke0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0ed8228cbff5eeb561591f22",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740ed8228cbff5eeb561591f22",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780ed8228cbff5eeb561591f22",
+        "width" : 160
+      } ],
+      "name" : "Andi Rianto",
+      "popularity" : 57,
+      "type" : "artist",
+      "uri" : "spotify:artist:4yRVdMqPrguKBFwZYpmke0"
+    } ],
+    "limit" : 30,
+    "next" : "https://api.spotify.com/v1/search?query=a&type=artist&market=ID&offset=30&limit=30",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 73
+  }
+}

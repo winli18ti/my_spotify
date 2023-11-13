@@ -1,0 +1,1139 @@
+{
+  "albums" : {
+    "href" : "https://api.spotify.com/v1/search?query=a&type=album&market=ID&offset=0&limit=30",
+    "items" : [ {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6FTLayBxjkQeanFdUusk1I",
+        "id" : "6FTLayBxjkQeanFdUusk1I",
+        "name" : "Fabio Asher",
+        "type" : "artist",
+        "uri" : "spotify:artist:6FTLayBxjkQeanFdUusk1I"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4km2qQIoGCCevm1Qf51OcE",
+      "id" : "4km2qQIoGCCevm1Qf51OcE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c4d0200097b84b94e079c15f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c4d0200097b84b94e079c15f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c4d0200097b84b94e079c15f",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "ASHER",
+      "release_date" : "2023-02-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:4km2qQIoGCCevm1Qf51OcE"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Kxlr1PRlDKEB0ekOCyHgX",
+        "id" : "4Kxlr1PRlDKEB0ekOCyHgX",
+        "name" : "BIGBANG",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Kxlr1PRlDKEB0ekOCyHgX"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0bH74T4pClqWmhltGOI8H9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0bH74T4pClqWmhltGOI8H9",
+      "id" : "0bH74T4pClqWmhltGOI8H9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738e629ff126ba9fe6fa843fcf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028e629ff126ba9fe6fa843fcf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518e629ff126ba9fe6fa843fcf",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2015-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0bH74T4pClqWmhltGOI8H9"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+        "id" : "7Ln80lUS6He07XvHI8qqHH",
+        "name" : "Arctic Monkeys",
+        "type" : "artist",
+        "uri" : "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/78bpIziExqiI9qztvNFlQu",
+      "id" : "78bpIziExqiI9qztvNFlQu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "AM",
+      "release_date" : "2013-09-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:78bpIziExqiI9qztvNFlQu"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        },
+        "href" : "https://api.spotify.com/v1/artists/73kxDUq2Hl7Upy4o0yFxXv",
+        "id" : "73kxDUq2Hl7Upy4o0yFxXv",
+        "name" : "INI",
+        "type" : "artist",
+        "uri" : "spotify:artist:73kxDUq2Hl7Upy4o0yFxXv"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/51NB4PIC5vgboVu6RaLoa2",
+      "id" : "51NB4PIC5vgboVu6RaLoa2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fe4ad65e7e0b7542566c6a0a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fe4ad65e7e0b7542566c6a0a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fe4ad65e7e0b7542566c6a0a",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A (Special Edition)",
+      "release_date" : "2021-11-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:51NB4PIC5vgboVu6RaLoa2"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4IWBUUAFIplrNtaOHcJPRM",
+        "id" : "4IWBUUAFIplrNtaOHcJPRM",
+        "name" : "James Arthur",
+        "type" : "artist",
+        "uri" : "spotify:artist:4IWBUUAFIplrNtaOHcJPRM"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1aSwuLpPBoke8WDwv4NDgi",
+      "id" : "1aSwuLpPBoke8WDwv4NDgi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27341b58c028c3ed6035074bdc1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0241b58c028c3ed6035074bdc1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485141b58c028c3ed6035074bdc1",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A Thousand Years",
+      "release_date" : "2023-03-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1aSwuLpPBoke8WDwv4NDgi"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ACkka9D9f1fH494mxN7uG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ACkka9D9f1fH494mxN7uG",
+        "id" : "1ACkka9D9f1fH494mxN7uG",
+        "name" : "Kevin Jere",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ACkka9D9f1fH494mxN7uG"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5ErVOYXCz2M9XP8GbuYCTy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5ErVOYXCz2M9XP8GbuYCTy",
+      "id" : "5ErVOYXCz2M9XP8GbuYCTy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c8791cb28df8b277f55a389a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c8791cb28df8b277f55a389a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c8791cb28df8b277f55a389a",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2019-03-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5ErVOYXCz2M9XP8GbuYCTy"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ucwey7FxkHXkLK7jSfevU",
+        "id" : "4ucwey7FxkHXkLK7jSfevU",
+        "name" : "Andra & The Backbone",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ucwey7FxkHXkLK7jSfevU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2puZQ79KT5q5RPae7khveD",
+      "id" : "2puZQ79KT5q5RPae7khveD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738a25f55567169ee8dbc97fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028a25f55567169ee8dbc97fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518a25f55567169ee8dbc97fcc",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "Andra & The Backbone",
+      "release_date" : "2006-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:2puZQ79KT5q5RPae7khveD"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1gIxoB0mBUoPr7rPyy31xf",
+        "id" : "1gIxoB0mBUoPr7rPyy31xf",
+        "name" : "Guiano",
+        "type" : "artist",
+        "uri" : "spotify:artist:1gIxoB0mBUoPr7rPyy31xf"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5MltogtE2HY0tWCYRDVZam"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5MltogtE2HY0tWCYRDVZam",
+      "id" : "5MltogtE2HY0tWCYRDVZam",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ffc5f1ba19068adca91008f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ffc5f1ba19068adca91008f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ffc5f1ba19068adca91008f0",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2021-03-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5MltogtE2HY0tWCYRDVZam"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0YpfUFtmzwNGWjowRwoGel",
+        "id" : "0YpfUFtmzwNGWjowRwoGel",
+        "name" : "Soegi Bornean",
+        "type" : "artist",
+        "uri" : "spotify:artist:0YpfUFtmzwNGWjowRwoGel"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1geFjIWLQNCKO0Y7uB2Xlw",
+      "id" : "1geFjIWLQNCKO0Y7uB2Xlw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27359605b76ee27d2c5ffac5d26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0259605b76ee27d2c5ffac5d26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485159605b76ee27d2c5ffac5d26",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "Asmalibrasi",
+      "release_date" : "2019-07-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1geFjIWLQNCKO0Y7uB2Xlw"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2BM933ADIluGGrPBOhPgIt",
+        "id" : "2BM933ADIluGGrPBOhPgIt",
+        "name" : "SiM",
+        "type" : "artist",
+        "uri" : "spotify:artist:2BM933ADIluGGrPBOhPgIt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/043ZPXFPotTR0yjuQ7cCKf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/043ZPXFPotTR0yjuQ7cCKf",
+      "id" : "043ZPXFPotTR0yjuQ7cCKf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738f663269ebc14d83d1ed0061",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028f663269ebc14d83d1ed0061",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518f663269ebc14d83d1ed0061",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2017-12-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:043ZPXFPotTR0yjuQ7cCKf"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/509YLwDnYeTaVfX0Kl6Jdn",
+        "id" : "509YLwDnYeTaVfX0Kl6Jdn",
+        "name" : "Dendi Nata",
+        "type" : "artist",
+        "uri" : "spotify:artist:509YLwDnYeTaVfX0Kl6Jdn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2n5g6GMUmSCommxT8NHNPa",
+        "id" : "2n5g6GMUmSCommxT8NHNPa",
+        "name" : "Hendra Kumbara",
+        "type" : "artist",
+        "uri" : "spotify:artist:2n5g6GMUmSCommxT8NHNPa"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6imuBPMqzJSYbN19D9GlFm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6imuBPMqzJSYbN19D9GlFm",
+      "id" : "6imuBPMqzJSYbN19D9GlFm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27300d04accf74d4786971184c2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0200d04accf74d4786971184c2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485100d04accf74d4786971184c2",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "Abadi",
+      "release_date" : "2023-02-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6imuBPMqzJSYbN19D9GlFm"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4nNxZ9weXMeokvs9ohcmZl",
+        "id" : "4nNxZ9weXMeokvs9ohcmZl",
+        "name" : "The Slaps",
+        "type" : "artist",
+        "uri" : "spotify:artist:4nNxZ9weXMeokvs9ohcmZl"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2o3gQAUBlZLf7DUmKg9rwW"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2o3gQAUBlZLf7DUmKg9rwW",
+      "id" : "2o3gQAUBlZLf7DUmKg9rwW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730371076f95e0b6ac45e9dab8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020371076f95e0b6ac45e9dab8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510371076f95e0b6ac45e9dab8",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2019-04-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:2o3gQAUBlZLf7DUmKg9rwW"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4IWBUUAFIplrNtaOHcJPRM",
+        "id" : "4IWBUUAFIplrNtaOHcJPRM",
+        "name" : "James Arthur",
+        "type" : "artist",
+        "uri" : "spotify:artist:4IWBUUAFIplrNtaOHcJPRM"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4mXHsCQ4aRccewmcKUxIBJ",
+      "id" : "4mXHsCQ4aRccewmcKUxIBJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b7bc00a22e8cf49d45a3b8b2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b7bc00a22e8cf49d45a3b8b2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b7bc00a22e8cf49d45a3b8b2",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A Year Ago",
+      "release_date" : "2023-05-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4mXHsCQ4aRccewmcKUxIBJ"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7fUtt9kVZOyn9LWy0JbDRI",
+        "id" : "7fUtt9kVZOyn9LWy0JbDRI",
+        "name" : "Agnetha Fältskog",
+        "type" : "artist",
+        "uri" : "spotify:artist:7fUtt9kVZOyn9LWy0JbDRI"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3R8OLGgoHaTBQF1jHCiro6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3R8OLGgoHaTBQF1jHCiro6",
+      "id" : "3R8OLGgoHaTBQF1jHCiro6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733dc847119ebd5eb4c1863b81",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023dc847119ebd5eb4c1863b81",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513dc847119ebd5eb4c1863b81",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A (Track By Track Commentary)",
+      "release_date" : "2013-05-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:3R8OLGgoHaTBQF1jHCiro6"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6IDsZZ4IHgs9VblBgQQSmt",
+        "id" : "6IDsZZ4IHgs9VblBgQQSmt",
+        "name" : "Andmesh",
+        "type" : "artist",
+        "uri" : "spotify:artist:6IDsZZ4IHgs9VblBgQQSmt"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3iA7DH0b2IUs9tqGSOh3uP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3iA7DH0b2IUs9tqGSOh3uP",
+      "id" : "3iA7DH0b2IUs9tqGSOh3uP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fa9881ec64320f2f5a82fb45",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fa9881ec64320f2f5a82fb45",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fa9881ec64320f2f5a82fb45",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "Andaikan Kau Datang (From \"Miracle in Cell No. 7\")",
+      "release_date" : "2022-08-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3iA7DH0b2IUs9tqGSOh3uP"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5JHlNfEowjO3TBglD42vAi",
+        "id" : "5JHlNfEowjO3TBglD42vAi",
+        "name" : "SATOH",
+        "type" : "artist",
+        "uri" : "spotify:artist:5JHlNfEowjO3TBglD42vAi"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bOCPCPFTuthdghfBwBt4S"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bOCPCPFTuthdghfBwBt4S",
+      "id" : "2bOCPCPFTuthdghfBwBt4S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27308a01ee4d1c3a95de00197b0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0208a01ee4d1c3a95de00197b0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485108a01ee4d1c3a95de00197b0",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2021-09-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:2bOCPCPFTuthdghfBwBt4S"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/47z98pKd71yIbgXwe9LPVC",
+        "id" : "47z98pKd71yIbgXwe9LPVC",
+        "name" : "Bernadya",
+        "type" : "artist",
+        "uri" : "spotify:artist:47z98pKd71yIbgXwe9LPVC"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
+      },
+      "href" : "https://api.spotify.com/v1/albums/26VYaukDjQn7rwT4ummk31",
+      "id" : "26VYaukDjQn7rwT4ummk31",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738869d13091935994879f2a47",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028869d13091935994879f2a47",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518869d13091935994879f2a47",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "Apa Mungkin",
+      "release_date" : "2022-09-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:26VYaukDjQn7rwT4ummk31"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4g59G9OEAMkD8pd8oiEqx0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4g59G9OEAMkD8pd8oiEqx0",
+        "id" : "4g59G9OEAMkD8pd8oiEqx0",
+        "name" : "Supercar",
+        "type" : "artist",
+        "uri" : "spotify:artist:4g59G9OEAMkD8pd8oiEqx0"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/269gDxEMvfzrLdfTVWwEFj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/269gDxEMvfzrLdfTVWwEFj",
+      "id" : "269gDxEMvfzrLdfTVWwEFj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27399a3bd80a5afa538fb919f4b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0299a3bd80a5afa538fb919f4b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485199a3bd80a5afa538fb919f4b",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:269gDxEMvfzrLdfTVWwEFj"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+        "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+        "name" : "Coldplay",
+        "type" : "artist",
+        "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0RHX9XECH8IVI3LNgWDpmQ",
+      "id" : "0RHX9XECH8IVI3LNgWDpmQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de09e02aa7febf30b7c02d82",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de09e02aa7febf30b7c02d82",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A Rush of Blood to the Head",
+      "release_date" : "2002-08-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:0RHX9XECH8IVI3LNgWDpmQ"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+        "id" : "4tDkeVxH0CSkNiLVrsYmQs",
+        "name" : "The Acacia Strain",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7cyVMoIuw8xb1yJmEtrdZ9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7cyVMoIuw8xb1yJmEtrdZ9",
+      "id" : "7cyVMoIuw8xb1yJmEtrdZ9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732d9eed04a158ca67aad8bc39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022d9eed04a158ca67aad8bc39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512d9eed04a158ca67aad8bc39",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2020-05-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:7cyVMoIuw8xb1yJmEtrdZ9"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0nmQIMXWTXfhgOBdNzhGOs",
+        "id" : "0nmQIMXWTXfhgOBdNzhGOs",
+        "name" : "Avenged Sevenfold",
+        "type" : "artist",
+        "uri" : "spotify:artist:0nmQIMXWTXfhgOBdNzhGOs"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3Id3VUk9jSKBD1guNo1buF",
+      "id" : "3Id3VUk9jSKBD1guNo1buF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27333c52ca8309741c6999ca742",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0233c52ca8309741c6999ca742",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485133c52ca8309741c6999ca742",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "Avenged Sevenfold",
+      "release_date" : "2007-10-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3Id3VUk9jSKBD1guNo1buF"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0KTG5waRVn8cBCL3z8nrBH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0KTG5waRVn8cBCL3z8nrBH",
+        "id" : "0KTG5waRVn8cBCL3z8nrBH",
+        "name" : "kopi",
+        "type" : "artist",
+        "uri" : "spotify:artist:0KTG5waRVn8cBCL3z8nrBH"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0QMw1gwIYT6RuWxiJfVdZb"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0QMw1gwIYT6RuWxiJfVdZb",
+      "id" : "0QMw1gwIYT6RuWxiJfVdZb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273eca173b3efa49529b424ea2c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02eca173b3efa49529b424ea2c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851eca173b3efa49529b424ea2c",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2020-10-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:0QMw1gwIYT6RuWxiJfVdZb"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id" : "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name" : "The Weeknd",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4yP0hdKOZPNshxUOjY0cZj",
+      "id" : "4yP0hdKOZPNshxUOjY0cZj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "After Hours",
+      "release_date" : "2020-03-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:4yP0hdKOZPNshxUOjY0cZj"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3JByu9VCNA1Rs6puGfRupj",
+        "id" : "3JByu9VCNA1Rs6puGfRupj",
+        "name" : "Denki Groove",
+        "type" : "artist",
+        "uri" : "spotify:artist:3JByu9VCNA1Rs6puGfRupj"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5snT1JyEMwAAa1nSYUL9fj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5snT1JyEMwAAa1nSYUL9fj",
+      "id" : "5snT1JyEMwAAa1nSYUL9fj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27302808154a0b153da9fad0d09",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0202808154a0b153da9fad0d09",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485102808154a0b153da9fad0d09",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "1997-05-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:5snT1JyEMwAAa1nSYUL9fj"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+        "id" : "7pbDxGE6nQSZVfiFdq9lOL",
+        "name" : "Rex Orange County",
+        "type" : "artist",
+        "uri" : "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DxNdQzm6cBYuSn4dCimmT",
+      "id" : "4DxNdQzm6cBYuSn4dCimmT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731bd6d088d3d81972af4cb81d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511bd6d088d3d81972af4cb81d",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "Apricot Princess",
+      "release_date" : "2017-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:4DxNdQzm6cBYuSn4dCimmT"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/21toYB9udeC6Zdi9fJL0wu",
+        "id" : "21toYB9udeC6Zdi9fJL0wu",
+        "name" : "Thomas Farnon",
+        "type" : "artist",
+        "uri" : "spotify:artist:21toYB9udeC6Zdi9fJL0wu"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4pyvUT61X7FcjvItZogGt3",
+      "id" : "4pyvUT61X7FcjvItZogGt3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731b08fe5890685038821f9b1c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021b08fe5890685038821f9b1c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511b08fe5890685038821f9b1c",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2018-03-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:4pyvUT61X7FcjvItZogGt3"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3wOsYKZM0zcKNasi3I7fP4",
+        "id" : "3wOsYKZM0zcKNasi3I7fP4",
+        "name" : "Mahalini",
+        "type" : "artist",
+        "uri" : "spotify:artist:3wOsYKZM0zcKNasi3I7fP4"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5x3nSujruZLuB6xBicI6Ai",
+        "id" : "5x3nSujruZLuB6xBicI6Ai",
+        "name" : "Nuca",
+        "type" : "artist",
+        "uri" : "spotify:artist:5x3nSujruZLuB6xBicI6Ai"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3H5eQDyoOyoOy9yYXnyTPh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3H5eQDyoOyoOy9yYXnyTPh",
+      "id" : "3H5eQDyoOyoOy9yYXnyTPh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27376ea1be57cda012bed820145",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0276ea1be57cda012bed820145",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485176ea1be57cda012bed820145",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "Aku Yang Salah",
+      "release_date" : "2020-08-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3H5eQDyoOyoOy9yYXnyTPh"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6HKV18fbiZPLNSoTUnTALb",
+        "id" : "6HKV18fbiZPLNSoTUnTALb",
+        "name" : "Anton Ewald",
+        "type" : "artist",
+        "uri" : "spotify:artist:6HKV18fbiZPLNSoTUnTALb"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6HDTuFOdtkETh4RnxIDNVm",
+      "id" : "6HDTuFOdtkETh4RnxIDNVm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a36e7057bf69cdd8f342bfe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a36e7057bf69cdd8f342bfe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a36e7057bf69cdd8f342bfe",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2013-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:6HDTuFOdtkETh4RnxIDNVm"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        },
+        "href" : "https://api.spotify.com/v1/artists/31fsDbpNPKe346urriO4ma",
+        "id" : "31fsDbpNPKe346urriO4ma",
+        "name" : "mrld",
+        "type" : "artist",
+        "uri" : "spotify:artist:31fsDbpNPKe346urriO4ma"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0FRaoawfqep3bJcCqcQZpD",
+      "id" : "0FRaoawfqep3bJcCqcQZpD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27323f9a7469fb98e80e4ffdf42",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0223f9a7469fb98e80e4ffdf42",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485123f9a7469fb98e80e4ffdf42",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "An Art Gallery Could Never Be As Unique As You",
+      "release_date" : "2019-12-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0FRaoawfqep3bJcCqcQZpD"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7fUtt9kVZOyn9LWy0JbDRI",
+        "id" : "7fUtt9kVZOyn9LWy0JbDRI",
+        "name" : "Agnetha Fältskog",
+        "type" : "artist",
+        "uri" : "spotify:artist:7fUtt9kVZOyn9LWy0JbDRI"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0cul1gd8ll76zBdzKENTk3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0cul1gd8ll76zBdzKENTk3",
+      "id" : "0cul1gd8ll76zBdzKENTk3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273773a6e74204e645d3ae95e37",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02773a6e74204e645d3ae95e37",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851773a6e74204e645d3ae95e37",
+        "width" : 64
+      } ],
+      "is_playable" : true,
+      "name" : "A",
+      "release_date" : "2013-05-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:0cul1gd8ll76zBdzKENTk3"
+    } ],
+    "limit" : 30,
+    "next" : "https://api.spotify.com/v1/search?query=a&type=album&market=ID&offset=30&limit=30",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 610
+  }
+}

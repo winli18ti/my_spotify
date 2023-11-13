@@ -1,0 +1,59 @@
+{
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 39120195
+    },
+    "genres" : [ "electro house" ],
+    "href" : "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
+    "id" : "7vk5e3vY1uw9plTHJAMwjN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebbf753c009fd9c2d53351dd3c",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174bf753c009fd9c2d53351dd3c",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178bf753c009fd9c2d53351dd3c",
+      "width" : 160
+    } ],
+    "name" : "Alan Walker",
+    "popularity" : 79,
+    "type" : "artist",
+    "uri" : "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 60916
+    },
+    "genres" : [ "norwegian pop", "scandipop" ],
+    "href" : "https://api.spotify.com/v1/artists/3GIadM69XShFZNB3gP67Td",
+    "id" : "3GIadM69XShFZNB3gP67Td",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebe9983dd1ff857287460d0443",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174e9983dd1ff857287460d0443",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178e9983dd1ff857287460d0443",
+      "width" : 160
+    } ],
+    "name" : "Emma Steinbakken",
+    "popularity" : 65,
+    "type" : "artist",
+    "uri" : "spotify:artist:3GIadM69XShFZNB3gP67Td"
+  } ]
+}
